@@ -9,7 +9,9 @@ BackEnd (BE)-Language - Java,Framework- SpringBoot (Employ the robust java langu
 
 Database (DB)-MySql,Framework-Hibernate (Utilize Sql Language and hibernate frameworks to ensure seamless data management)
 
-The project is organized for managing different Controller, Model and Databases. #Controller:-It plays the important role for managing the Backend of the Project It icludeds the API's for rendering the JSP page and also include the code for performing operation with the database like Login,CreateAccount,BacktoLogin ect.
+*The project is organized for managing different Controller, Model and Databases.*
+
+#Controller:-It plays the important role for managing the Backend of the Project It icludeds the API's for rendering the JSP page and also include the code for performing operation with the database like Login,CreateAccount,BacktoLogin ect.
 
 #Model:-It plays the important role for managing the database of the Project. It includes diferent entities within the database like login entity,student login entity,contact entity and courses entities.
 
